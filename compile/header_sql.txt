@@ -1,0 +1,10 @@
+/*
+CPS510 - Library Database System
+Assignment4 - Part2: VIEWs and Advanced Queries / Assignment5: Shell Menu
+October 28, 2021
+
+Group Members:
+Sera Wong (sera.wong@ryerson.ca) - 500702293
+Sulaxan Pius (spius@ryerson.ca) - 500897523
+Jeesoo Kim (j17kim@ryerson.ca) - 500877550
+*/
